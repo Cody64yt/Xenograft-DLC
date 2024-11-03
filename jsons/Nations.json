@@ -1,23 +1,23 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Solara",
+		"leaderName": "Seren",
+		"adjective": ["Solara"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Great Solar Queen Seren, your might rivals no other. The courage you showed during every battle is admire able, but with great power comes great responsibility.",
+		"startIntroPart2": "Can you overcome yet another challange?",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "Heya, I'm the Queen of Solara, call me Seren.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Yeah?",
+		"neutralLetsHearIt": ["Go on.","What's up?"],
+		"neutralNo": ["Nah.","No thanks."],
+		"neutralYes": [" ","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
